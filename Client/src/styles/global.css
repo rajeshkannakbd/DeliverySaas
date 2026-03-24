@@ -10,6 +10,8 @@ body {
   font-family: "Segoe UI", sans-serif;
   background: linear-gradient(to bottom, #e6f7ff, #f9fcff);
   min-height: 100vh;
+    max-width: 480px;
+  margin: auto; 
 }
 
 /* CONTAINER (Card Style) */
@@ -17,6 +19,7 @@ body {
   width: 90%;
   max-width: 380px;
   margin: 60px auto;
+  margin-top: 40px;
   padding: 25px 20px;
   background: #ffffff;
   border-radius: 16px;
